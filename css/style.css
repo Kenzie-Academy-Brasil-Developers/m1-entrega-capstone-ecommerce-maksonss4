@@ -138,6 +138,7 @@ h1{
     width: 260px;
     border-radius: 10px;
     background-color: #f5f5f5;
+    padding-left: 5px;
 }
 
 .buttonPesquisar{
@@ -147,6 +148,8 @@ h1{
 .h2Width{
     width: 328px;    
     margin-bottom: 0;
+    text-align: center;
+    padding-top: 17px;
 }
 
 .form{
